@@ -1,0 +1,193 @@
+[05-Sep-2018 10:40:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/editmicrosystemp/public_html/test.php on line 25
+[05-Sep-2018 11:00:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/editmicrosystemp/public_html/test.php on line 27
+[05-Sep-2018 11:04:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/editmicrosystemp/public_html/test.php on line 27
+[05-Sep-2018 11:05:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/editmicrosystemp/public_html/test.php on line 27
+[05-Sep-2018 11:27:00 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/editmicrosystemp/public_html/test.php on line 29
+[05-Sep-2018 12:16:24 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:16:25 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:20:26 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:20:40 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:22:01 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:22:57 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:23:28 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:23:35 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:25:23 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:26:56 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:27:19 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:27:25 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:28:28 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:30:25 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:30:25 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:30:29 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:32:08 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 12:33:38 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth = 0) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:38:19 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:38:19 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:38:57 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:06 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:12 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:18 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:19 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:26 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:27 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:30 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:33 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:33 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:35 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:39:42 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[05-Sep-2018 13:40:27 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[06-Sep-2018 08:41:02 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[06-Sep-2018 08:41:02 UTC] PHP Warning:  Declaration of Primary_Walker_Nav_Menu::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = Array) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 33
+[07-Sep-2018 13:37:19 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/teplate-webinars.php on line 22
+[12-Sep-2018 11:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_menu_page() in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1159
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-settings.php(424): include()
+#1 /home/editmicrosystemp/public_html/wp-config.php(89): require_once('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/wp-load.php(37): require_once('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-login.php(12): require('/home/editmicro...')
+#4 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1159
+[12-Sep-2018 11:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_menu_page() in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1159
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-settings.php(424): include()
+#1 /home/editmicrosystemp/public_html/wp-config.php(89): require_once('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/wp-load.php(37): require_once('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-login.php(12): require('/home/editmicro...')
+#4 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1159
+[19-Sep-2018 09:35:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 102
+[19-Sep-2018 12:43:58 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 442
+[19-Sep-2018 12:44:02 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 442
+[19-Sep-2018 12:44:04 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 442
+[19-Sep-2018 12:44:06 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 442
+[19-Sep-2018 12:44:08 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 442
+[19-Sep-2018 13:38:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 107
+[20-Sep-2018 14:20:04 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/editmicrosystemp/public_html/test.php on line 71
+[20-Sep-2018 14:26:53 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/editmicrosystemp/public_html/test.php on line 71
+[24-Sep-2018 07:30:31 UTC] PHP Fatal error:  Cannot redeclare create_post_type() (previously declared in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:8) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1302
+[24-Sep-2018 08:15:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_post_type_achievement' not found or invalid function name in /home/editmicrosystemp/public_html/wp-includes/class-wp-hook.php on line 286
+[24-Sep-2018 08:15:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_post_type_achievement' not found or invalid function name in /home/editmicrosystemp/public_html/wp-includes/class-wp-hook.php on line 286
+[24-Sep-2018 08:15:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_post_type_achievement' not found or invalid function name in /home/editmicrosystemp/public_html/wp-includes/class-wp-hook.php on line 286
+[24-Sep-2018 11:10:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php on line 436
+[25-Sep-2018 05:23:55 UTC] PHP Recoverable fatal error:  Object of class WP_Term could not be converted to string in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/teplate-glossary.php on line 21
+[25-Sep-2018 05:24:38 UTC] PHP Recoverable fatal error:  Object of class WP_Term could not be converted to string in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/teplate-glossary.php on line 21
+[25-Sep-2018 08:33:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1344) in /home/editmicrosystemp/public_html/wp-login.php on line 423
+[25-Sep-2018 08:33:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1344) in /home/editmicrosystemp/public_html/wp-login.php on line 436
+[25-Sep-2018 08:33:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1344) in /home/editmicrosystemp/public_html/wp-login.php on line 423
+[25-Sep-2018 08:33:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1344) in /home/editmicrosystemp/public_html/wp-login.php on line 436
+[25-Sep-2018 13:00:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 43
+[25-Sep-2018 13:19:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 47
+[26-Sep-2018 06:14:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 35
+[26-Sep-2018 06:15:54 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 43
+[27-Sep-2018 05:35:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1349 and exactly 2 expected in /home/editmicrosystemp/public_html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php(1349): wpdb->prepare('SELECT YEAR(pos...')
+#1 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(20): get_posts_years_array()
+#2 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#4 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#5 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-includes/wp-db.php on line 1222
+[27-Sep-2018 05:39:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1349 and exactly 2 expected in /home/editmicrosystemp/public_html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php(1349): wpdb->prepare('SELECT YEAR(pos...')
+#1 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(14): get_posts_years_array()
+#2 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#4 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#5 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-includes/wp-db.php on line 1222
+[27-Sep-2018 05:40:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1349 and exactly 2 expected in /home/editmicrosystemp/public_html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php(1349): wpdb->prepare('SELECT YEAR(pos...')
+#1 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(14): get_posts_years_array()
+#2 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#4 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#5 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-includes/wp-db.php on line 1222
+[27-Sep-2018 05:46:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1349 and exactly 2 expected in /home/editmicrosystemp/public_html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php(1349): wpdb->prepare('SELECT YEAR(pos...')
+#1 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(14): get_posts_years_array()
+#2 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#4 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#5 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-includes/wp-db.php on line 1222
+[27-Sep-2018 05:54:37 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1350
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(14): get_posts_years_array()
+#1 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#4 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1350
+[27-Sep-2018 05:54:42 UTC] PHP Notice:  Undefined variable: result in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/teplate-glossary.php on line 60
+[27-Sep-2018 05:55:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpdb::prepare(), 1 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1349 and exactly 2 expected in /home/editmicrosystemp/public_html/wp-includes/wp-db.php:1222
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php(1349): wpdb->prepare('SELECT YEAR(pos...')
+#1 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(14): get_posts_years_array()
+#2 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#4 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#5 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-includes/wp-db.php on line 1222
+[27-Sep-2018 05:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_posts_years_array() in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php:14
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#3 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php on line 14
+[27-Sep-2018 10:14:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-meet-team.php on line 36
+[28-Sep-2018 07:13:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 113
+[28-Sep-2018 09:47:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_posts_years_array(), 0 passed in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php on line 20 and exactly 1 expected in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1345
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php(20): get_posts_years_array()
+#1 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#3 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#4 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1345
+[28-Sep-2018 09:49:02 UTC] PHP Parse error:  syntax error, unexpected 'l' (T_STRING) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-gallery.php on line 20
+[28-Sep-2018 10:00:52 UTC] PHP Fatal error:  Cannot redeclare display_gallary_by_year() (previously declared in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1359) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1442
+[28-Sep-2018 11:27:46 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:27:46 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:27:46 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:29:27 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:29:27 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:29:27 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:33:06 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:33:06 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:33:06 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 23
+[28-Sep-2018 11:35:01 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 24
+[28-Sep-2018 11:35:01 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 24
+[28-Sep-2018 11:35:01 UTC] PHP Warning:  A non-numeric value encountered in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-events.php on line 24
+[28-Sep-2018 12:57:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 184
+[28-Sep-2018 12:58:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 184
+[01-Oct-2018 05:40:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header.php on line 451
+[01-Oct-2018 06:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getAddress() in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/woocommerce/archive-product.php:40
+Stack trace:
+#0 /home/editmicrosystemp/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/editmicrosystemp/public_html/wp-blog-header.php(19): require_once('/home/editmicro...')
+#2 /home/editmicrosystemp/public_html/index.php(17): require('/home/editmicro...')
+#3 {main}
+  thrown in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/woocommerce/archive-product.php on line 40
+[01-Oct-2018 07:14:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/woocommerce/archive-product.php on line 47
+[01-Oct-2018 07:40:23 UTC] PHP Parse error:  syntax error, unexpected ''<li>No subcategories found.</' (T_ENCAPSED_AND_WHITESPACE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1511
+[01-Oct-2018 07:41:04 UTC] PHP Parse error:  syntax error, unexpected ''>No subcategories found.</a><' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 1511
+[01-Oct-2018 12:14:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 508
+[01-Oct-2018 12:17:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 509
+[01-Oct-2018 12:25:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 510
+[01-Oct-2018 13:12:48 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php on line 510
+[03-Oct-2018 05:38:24 UTC] PHP Fatal error:  Cannot redeclare getAddress() (previously declared in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1634) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 165
+[03-Oct-2018 05:38:58 UTC] PHP Fatal error:  Cannot redeclare getAddress() (previously declared in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/functions.php:1634) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-trainingvideo.php on line 165
+[04-Oct-2018 03:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:22:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:23:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:23:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:23:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:26:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-content/themes/editmicro/template-manage-profile.php on line 358
+[04-Oct-2018 03:28:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219
+[04-Oct-2018 03:28:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/editmicrosystemp/public_html/wp-content/themes/editmicro/header-second.php:107) in /home/editmicrosystemp/public_html/wp-includes/pluggable.php on line 1219

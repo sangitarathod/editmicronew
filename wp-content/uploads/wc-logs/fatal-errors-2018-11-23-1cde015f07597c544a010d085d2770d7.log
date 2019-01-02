@@ -1,0 +1,54 @@
+2018-11-23T05:15:08+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 16777224 bytes)
+
+2018-11-23T05:15:40+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+
+2018-11-23T05:15:47+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+
+2018-11-23T05:17:31+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+
+2018-11-23T05:18:16+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 16777224 bytes)
+
+2018-11-23T05:19:01+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+
+2018-11-23T05:19:13+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+
+2018-11-23T06:02:51+00:00 CRITICAL Uncaught Error: Call to undefined function ass_filter() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/functions.php:3190
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-settings.php(424): include()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-config.php(90): require_once('/var/www/html/N...')
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-load.php(37): require_once('/var/www/html/N...')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-blog-header.php(13): require_once('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/index.php(17): require('/var/www/html/N...')
+#5 {main}
+  thrown
+
+2018-11-23T06:03:03+00:00 CRITICAL Uncaught Error: Call to undefined function ass_filter() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/functions.php:3190
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-settings.php(424): include()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-config.php(90): require_once('/var/www/html/N...')
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-load.php(37): require_once('/var/www/html/N...')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-blog-header.php(13): require_once('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/index.php(17): require('/var/www/html/N...')
+#5 {main}
+  thrown
+
+2018-11-23T06:03:09+00:00 CRITICAL Uncaught Error: Call to undefined function ass_filter() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/functions.php:3190
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-settings.php(424): include()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-config.php(90): require_once('/var/www/html/N...')
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-load.php(37): require_once('/var/www/html/N...')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-blog-header.php(13): require_once('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/index.php(17): require('/var/www/html/N...')
+#5 {main}
+  thrown
+
+2018-11-23T06:03:19+00:00 CRITICAL Uncaught Error: Call to undefined function ass_filter() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/functions.php:3180
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-settings.php(424): include()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-config.php(90): require_once('/var/www/html/N...')
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-load.php(37): require_once('/var/www/html/N...')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-blog-header.php(13): require_once('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/index.php(17): require('/var/www/html/N...')
+#5 {main}
+  thrown
+

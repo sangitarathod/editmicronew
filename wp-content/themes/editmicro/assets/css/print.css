@@ -1,0 +1,6 @@
+@media print {
+  .alert-danger {
+        color: yellow !important;
+        background-color: red !important;
+      }
+}

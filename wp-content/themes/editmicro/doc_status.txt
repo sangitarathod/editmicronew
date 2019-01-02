@@ -1,0 +1,57 @@
+﻿-----------------------
+Done Pages in Wordpress
+-----------------------
+1. signin
+2. sign up
+3. complete profile
+4. forgot pwd
+5. reset pwd
+6. contact
+7. Meet our team
+8. carrer opportunities 
+- career detail page remaining
+9. Direction to editmicro
+10. webinars
+11. webinars details
+12. Glossary
+13. Training video 
+14. About edit micro
+15. Bee certificate
+16. Awards (Achievements)
+17. Success stories
+18. Training
+19. Gallery
+20. Gallery Album
+21. News
+22. News Detail
+23. Events
+24. product listing (60% Done)
+25. Manage Profile
+
+----------------------------------
+Completed by html not in Wordpress
+----------------------------------
+1. apply_job
+2. face to face training
+3. log_fault
+4. log_falult_2
+5. product listing (60% done)
+6. project
+7. promotion_catalogue
+8. quote acknowledgement
+9. Request Quote
+10. tickets
+11. ticket status
+12. career details
+
+
+
+===================
+Summary:
+
+Total html Done:  38
+
+Total WP Done : 25
+
+====================
+

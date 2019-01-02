@@ -1,0 +1,81 @@
+@media (max-width: 1259px) {
+  /* 1260-1 */ }
+@media (max-width: 1122px) {
+  /* 1123-1 */ }
+@media (max-width: 990px) {
+  /* 991-1 */ }
+@media (max-width: 1023px) {
+  /* 1024-1 */ }
+@media (max-width: 767px) {
+  /* 768-1 */
+  body .wrapper #sidebar {
+    min-width: 75%;
+    max-width: 60%;
+    margin-left: 0 !important;
+    position: fixed;
+    z-index: 9; }
+    body .wrapper #sidebar ul.components {
+      padding: 0px;
+      overflow-y: scroll;
+      height: 100vh; }
+    body .wrapper #sidebar.active {
+      min-width: 0px;
+      max-width: 0px; }
+      body .wrapper #sidebar.active .sidebar-header {
+        display: none; }
+        body .wrapper #sidebar.active .sidebar-header strong {
+          display: none; }
+  body .wrapper #main_content .container_header .navbar-default .navbar-header button {
+    float: right; }
+  body .wrapper #main_content .container_header .navbar-default .navbar-header .user_login {
+    margin-bottom: 10px;
+    padding-right: 0px; }
+    body .wrapper #main_content .container_header .navbar-default .navbar-header .user_login .dropdown button img {
+      padding-right: 15px; }
+  body .wrapper #main_content .container_header .navbar-default .mobile_view_logo {
+    display: block;
+    float: left;
+    padding-top: 5px; }
+    body .wrapper #main_content .container_header .navbar-default .mobile_view_logo a img {
+      width: 90%; }
+  body .wrapper #main_content .dashboard_main_contain .page_headings {
+    padding: 20px; }
+    body .wrapper #main_content .dashboard_main_contain .page_headings .breadcrumb {
+      padding-right: 0px;
+      width: 100%;
+      padding-top: 10px;
+      margin-bottom: 0px; }
+      body .wrapper #main_content .dashboard_main_contain .page_headings .breadcrumb li a {
+        padding-right: 10px; }
+      body .wrapper #main_content .dashboard_main_contain .page_headings .breadcrumb li:before {
+        margin-right: 10px; }
+  body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain {
+    padding: 20px 20px; }
+    body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain h2 {
+      margin-bottom: 20px; }
+    body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .dashborad_table {
+      border: none;
+      position: static; }
+      body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .dashborad_table .dataTables_wrapper .dataTables_info {
+        width: 100%;
+        margin-bottom: 10px; }
+      body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .dashborad_table .dataTables_wrapper .dataTables_paginate {
+        float: left;
+        margin-left: 25px; }
+    body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .job_details_main .job_details_top .job_details_btn {
+      float: left;
+      margin-top: 20px; }
+  body .wrapper #main_content .dashboard_main_contain .dashboard_contain_subpage .message_container .message_info_top .user_contact_info {
+    padding: 20px 0px 0px 30px; } }
+@media (max-width: 499px) {
+  /* 500-1 */
+  body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .job_details_main .job_details_top .job_details_btn .job_edit_btn {
+    padding: 10px 20px; }
+  body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .job_details_main .job_details_top .job_details_btn .deactivate_btn {
+    padding: 10px 15px; }
+  body .wrapper #main_content .dashboard_main_contain .dashboard_body_contain .user_deatils_main .user_deatils_info {
+    width: 100%; } }
+@media (max-width: 319px) {
+  /* 320-1 */ }
+
+/*# sourceMappingURL=responsive.css.map */

@@ -1,0 +1,50 @@
+2018-11-20T12:00:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_ID() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/content-product.php:21
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template.php(690): require()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/var/www/html/N...', false)
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/archive-product.php(99): wc_get_template_part('content', 'product')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template-loader.php(74): include('/var/www/html/N...')
+#6 /var/www/html/NeosoftProjects/EditMic
+
+2018-11-20T12:00:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_ID() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/content-product.php:21
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template.php(690): require()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/var/www/html/N...', false)
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/archive-product.php(99): wc_get_template_part('content', 'product')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template-loader.php(74): include('/var/www/html/N...')
+#6 /var/www/html/NeosoftProjects/EditMic
+
+2018-11-20T12:00:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_ID() in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/content-product.php:21
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template.php(690): require()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/var/www/html/N...', false)
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/archive-product.php(99): wc_get_template_part('content', 'product')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template-loader.php(74): include('/var/www/html/N...')
+#6 /var/www/html/NeosoftProjects/EditMic
+
+2018-11-20T12:09:27+00:00 CRITICAL Uncaught Error: Call to a member function plugin_url() on null in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/content-product.php:59
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template.php(690): require()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/var/www/html/N...', false)
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/archive-product.php(99): wc_get_template_part('content', 'product')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template-loader.php(74): include('/var/www/html/N...')
+#6 /var/www/html/NeosoftProje
+
+2018-11-20T12:09:40+00:00 CRITICAL Uncaught Error: Call to a member function plugin_url() on null in /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/content-product.php:59
+Stack trace:
+#0 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template.php(690): require()
+#1 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/var/www/html/N...', false)
+#2 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/themes/editmicro/woocommerce/archive-product.php(99): wc_get_template_part('content', 'product')
+#3 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/N...')
+#4 /var/www/html/NeosoftProjects/EditMicroNew/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#5 /var/www/html/NeosoftProjects/EditMicroNew/wp-includes/template-loader.php(74): include('/var/www/html/N...')
+#6 /var/www/html/NeosoftProje
+

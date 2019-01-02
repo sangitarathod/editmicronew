@@ -1,0 +1,73 @@
+
+//transition
+@mixin transition($args...) {
+  	-webkit-transition: $args;
+  	-moz-transition: $args;
+  	-ms-transition: $args;
+  	-o-transition: $args;
+  	transition: $args;
+}
+
+//transform
+@mixin transform($args...) {
+  	-webkit-transform: $args;
+  	-moz-transform: $args;
+  	-ms-transform: $args;
+  	-o-transform: $args;
+  	transform: $args;
+}
+
+//border-radius
+@mixin border-radius($radius) {
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+    -ms-border-radius: $radius;
+    border-radius: $radius;
+}
+
+
+
+
+
+//media query
+@mixin smallmobile {
+  @media (max-width: #{$extrasmall-mobile-width - 1px}) { /* 320-1 */
+    @content;
+  }
+}
+
+@mixin mobileportrait {
+  @media (max-width: #{$phablet-width - 1px}) { /* 500-1 */
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: #{$tablet-width - 1px}) { /* 768-1 */
+    @content;
+  }
+}
+
+@mixin smalldesktop {
+  @media (max-width: #{$smalldesktop-width - 1px}) { /* 991-1 */
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: #{$desktop-width - 1px}) { /* 1024-1 */
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (max-width: #{$large-desktop-width - 1px}) { /* 1123-1 */
+    @content;
+  }
+}
+
+@mixin large-desktop {
+  @media (max-width: #{$ex-large-desktop-width - 1px}) { /* 1260-1 */
+    @content;
+  }
+}

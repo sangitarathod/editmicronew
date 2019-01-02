@@ -1,0 +1,14 @@
+.woocommerce-Price-amount,.from, .price,.total, .bundle_price, .single-product div.product form.cart .single_add_to_cart_button {
+     display: none !important;
+
+ }
+
+.woocommerce-Price-amount, .price,.total, .bundle_price {
+
+    opacity: 0 !important;
+}
+
+
+.gpls_rfq_set {
+    display: block !important;
+}

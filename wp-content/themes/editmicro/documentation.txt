@@ -1,0 +1,370 @@
+
+Green search filter : keeping thinking on this point.
+
+product details:
+Image 
+Title
+
+Request quote:
+Added product in Cart
+
+Request data going cart product comments.
+
+Custom backend details page:
+
+In which database table it will go or can we use woo-commerce cart process.
+
+
+------------------------------------------------
+http://editmicrosystem.php-dev.in/wp-content/themes/editmicro/doc_status.txt
+
+https://docs.google.com/spreadsheets/d/1jbzSkVVl7qtvL8l5HsYhTAY61dnfglK18_6hmSr2rgg/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1mfLPz9PlUSZf2AAhVvKlgHP0t9H-BtrX-ytitdyNeDc/edit#gid=945707534
+
+======================================================================================================
+
+Custom backend
+
+
+custom backend task scope:
+
+
+Check if we can hide that custom post type in coding
+
+
+
+
+Two say 1. 
+1.Custom post type  (Check if we can hide that custom post type in coding)
+2.New custom database table  ( ticket module)
+
+
+Following entities are releated to custom backend:
+
+
+Task -1 Quote reqest
+
+quote request will Product details page 
+
+check susham/samta/Amol good plugin
+
+check where all fileds in that plugin.
+
+
+=====================================================================
+
+
+
+Task-7
+
+Fault Logs:
+
+
+
+
+
+
+Task-8
+
+Listing of request:
+
+Check form page these request are coming.
+
+1Webinar Request 
+2.Face to Face request
+
+
+Task-9
+
+Reply form  for user's request.
+
+DOUBT: Reply goes to user email id or user's admin panel?
+
+
+Task-10
+
+Face to face training
+
+
+Task -11
+Listing of job with link to add new job.
+
+
+
+Task 13
+
+Post a job:
+
+
+
+
+
+Task 14
+
+Manage user ()
+
+DOUBT : which user's will be listed here.
+
+
+Task 15
+
+User details page of user with block facility.
+
+
+Task-16
+
+Admin listing:(edit and delete)
+
+
+
+Task-17
+
+https://projects.invisionapp.com/share/JMNNV2N3KDA#/screens/320989121
+
+add new admin 
+check below 
+add user with role 
+add with permission ( like message quote fault logs)
+
+
+
+===============================================================================================
+
+------------------
+Completed by html not in Wordpress
+--------------------------
+1. apply_job
+3. face to face training
+4. log_fault
+5. log_falult_2
+6. product listing (60% done)
+7. project
+8. promotion_catalogue
+9. quote acknowledgement
+10. Request Quote
+11. tickets
+12. career details
+13. manage profile
+
+
+
+
+==============================================
+one water mark point is there somewhere client told just check for that.
+
+========================================================================================
+MOM dated 25th Sept 2018 ( Tuesday)
+
+Check client's existing wordpress wesbite.
+
+Client want to export all products from exising website.
+Client needs to import those old website product to new one.
+
+
+Put description of all functinlity in a Excel for all module and project.
+And Take approval of that.
+
+
+
+
+
+
+
+
+
+
+
+MOM dated 25th Sept 2018 ( Tuesday)
+=============================================================================================
+Mom dated 17th Sept 2018
+
+
+
+
+
+
+Mom dated 17th Sept 2018
+
+====================================================================================================
+Mom dated 11th Sept 2018
+
+Name => Full Name - Done
+
+1.On Home page there are Sign and Sign in twice one popup.
+2.On Sign in page there needs home page link as we can not able to come home once we go there. - Waiting for desiging
+2.On Sign up page there needs home page link as we can not able to come home once we go there. - Waiting for desiging
+
+3Remove cateolog at right side bar 
+
+and put text like Categlog and Promotions
+
+Just check on which page it is listing 
+
+First is download link in product listing.
+
+
+
+==================================================================================================
+
+Register form :
+
+
+Complete our profile field  
+
+Put drop-down values for three text box - Done 
+
+All mail should go inside inbox and not in spam 
+
+
+===========================================================
+
+Next Task:
+
+
+
+Register page on Webnair details page.
+
+Add Institute fields in Register Webnair form
+Once user fill form 
+It get lsited in admin 
+THere needs to facility to send mail to that user with custom text.
+
+==========================================================
+
+
+
+
+
+
+
+
+
+=================================================================
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+
+Task title            :
+Task Description or business logic.
+Task URL           :
+All File Reference: 
+Screen references :
+
+===================================================================
+

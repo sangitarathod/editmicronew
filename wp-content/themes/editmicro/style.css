@@ -1,0 +1,25 @@
+/*
+ Theme Name: editmicro
+ Description: editmicro child theme
+ Author: Neosoft 
+ Template: twentyseventeen
+ Version: 1
+ */
+
+label span{color:red;}
+                                button, input[type="submit"] {
+                                    background-color: #2c2f8b;
+                                    color: #fff;
+                                    width: 100%;
+                                    padding: 8px 12px;
+                                    font-size: 16px;
+                                    border-radius: 3px;
+                                    border: none;
+                                    margin-bottom: 22px;
+                                    width: 100%;
+                                }
+                        }
+                    }
+                    .wpcf7-validation-errors, .wpcf7-mail-sent-ok{
+                        clear:both;
+                    }

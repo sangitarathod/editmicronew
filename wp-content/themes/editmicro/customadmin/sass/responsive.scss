@@ -1,0 +1,168 @@
+@import "variables";
+@import "mixins";
+
+
+
+@include large-desktop {
+}
+
+@include desktop {
+}
+
+@include smalldesktop {
+}
+
+@include tablet {
+}
+
+@include mobile {
+    body {
+        .wrapper {
+            #sidebar {
+                min-width: 75%;
+                max-width: 60%;
+                margin-left: 0 !important;
+                position: fixed;
+                z-index: 9;
+                .sidebar-header {
+                }
+                ul.components {
+                   padding: 0px; 
+                   overflow-y: scroll;
+                   height: 100vh;
+                }
+                &.active {
+                    min-width:0px;
+                    max-width: 0px;
+                    .sidebar-header {
+                        display: none;
+                        strong {
+                            display: none;
+                        }
+                    }
+                }
+            }
+            #main_content {
+                .container_header {
+                    .navbar-default {
+                        .navbar-header {
+                            button {
+                                float: right;
+                            }
+                            .user_login {
+                                margin-bottom: 10px;
+                                padding-right: 0px;
+                                .dropdown {
+                                    button {
+                                        img {
+                                            padding-right: 15px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .mobile_view_logo {
+                            display: block;
+                            float: left;
+                            padding-top: 5px;
+                            a {
+                                img {
+                                    width: 90%;
+                                }        
+                            }
+                        }
+                    }
+                }
+                .dashboard_main_contain {
+                    .page_headings {
+                        padding: 20px;
+                        .breadcrumb {
+                            padding-right: 0px;
+                            width: 100%;
+                            padding-top: 10px;
+                            margin-bottom: 0px;
+                            li {
+                                a {
+                                    padding-right: 10px;
+                                }
+                                &:before {
+                                    margin-right: 10px;
+                                }
+                            }
+                        }
+                    }
+                    .dashboard_body_contain {
+                        padding: 20px 20px;
+                        h2 {
+                            margin-bottom: 20px;
+                        }
+                        .dashborad_table {
+                            border: none;
+                            position: static;
+                            .dataTables_wrapper {
+                                .dataTables_info {
+                                    width: 100%;
+                                    margin-bottom: 10px;
+                                }
+                                .dataTables_paginate  {
+                                    float: left;
+                                    margin-left: 25px;  
+                                }
+                            }
+                        }
+                        .job_details_main {
+                            .job_details_top {
+                                .job_details_btn {
+                                    float: left;
+                                    margin-top: 20px;
+                                }
+                            }
+                        }
+                    }
+                    .dashboard_contain_subpage {
+                        .message_container {
+                            .message_info_top {
+                                .user_contact_info {
+                                    padding: 20px 0px 0px 30px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@include mobileportrait {
+    body {
+        .wrapper {
+            #main_content {
+                .dashboard_main_contain {
+                    .dashboard_body_contain {
+                        .job_details_main {
+                            .job_details_top {
+                                .job_details_btn {
+                                    .job_edit_btn {
+                                        padding: 10px 20px;
+                                    }
+                                    .deactivate_btn {
+                                        padding: 10px 15px;
+                                    }
+                                }
+                            }
+                        }
+                        .user_deatils_main {
+                            .user_deatils_info {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@include smallmobile { 
+}
