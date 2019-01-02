@@ -1,1 +1,3 @@
-dev2
+<?php 
+echo "dev2";
+?>
